@@ -20,7 +20,7 @@ library(data.table)
 library(e1071)
 library(doBy)
 
-#Start parallel process with half the number of cores
+#Start parallel process with 1 less than total number of cores
 cl <- makeCluster((detectCores() -1))
 registerDoParallel(cl)
 
