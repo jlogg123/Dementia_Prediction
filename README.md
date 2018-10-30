@@ -1,2 +1,2 @@
 # Dementia_Prediction
-Developed machine learning models to predict dementia
+Developed dementia predictive models based on Machine Learning and Statistical methods. 
